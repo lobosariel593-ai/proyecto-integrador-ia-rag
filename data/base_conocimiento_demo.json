@@ -1,0 +1,6 @@
+[
+  {"id":"DEMO-001","titulo":"Consulta de garantía","contenido":"La garantía requiere revisión de condiciones, vigencia y comprobante de compra. Derivar condiciones específicas a un agente humano.","tipo":"sintetico_no_oficial"},
+  {"id":"DEMO-002","titulo":"Consulta de devolución","contenido":"Las devoluciones se revisan según la política vigente publicada por el comercio. No afirmar plazos sin una fuente autorizada.","tipo":"sintetico_no_oficial"},
+  {"id":"DEMO-003","titulo":"Seguimiento de pedido","contenido":"Para seguimiento de pedido se necesita integración autorizada y autenticación. No revelar estados ni información de pedidos sin autorización.","tipo":"sintetico_no_oficial"},
+  {"id":"DEMO-004","titulo":"Consulta de productos","contenido":"Las recomendaciones de productos deben basarse en fichas técnicas vigentes y datos públicos verificados.","tipo":"sintetico_no_oficial"}
+]
